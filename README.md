@@ -1,7 +1,7 @@
 # REST API
 This is a REST API that ensure if the patient exists and process the request if it is appropriate.
 
-+Status Code
++ Status Code
   + 200
     + REST API works properly.
   + 404
