@@ -3,7 +3,7 @@ This is a REST API that ensure if the patient exists and process the request if 
 
 + Status Code
   + 200
-    + REST API works properly.
+    + REST API worked properly.
   + 404
     + REST API couldn't find the patient with the SSN the user put.
   + 401
